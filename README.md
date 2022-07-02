@@ -6,9 +6,13 @@
 
 # 💫About Me :
 🔭 I’m currently working on blockchain projects.
+
 🌱 I’m learning solidity and other tools for blockchain development.
+
 🤔 I have been working as full stack developer.
+
 💬 I work on nodejs, angular, react, laravel.
+
 📫 Reach me: Email - prajwalbati@gmail.com
 
 
