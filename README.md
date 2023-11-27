@@ -5,13 +5,15 @@
 [![](https://visitcount.itsvg.in/api?id=prajwalbati&icon=0&color=1)](https://visitcount.itsvg.in)
 
 # 💫About Me :
-💬 I work as full stack developer on NodeJs, Angular, ReactJs, Laravel.
+🤔 I work as a full-stack developer on NodeJs, Angular, ReactJs, Laravel.
 
-🌱 I’m also learning solidity, web3 and other tools for blockchain development.
+🌱 I’m also learning solidity, web3, and other tools for blockchain development.
 
 🤔 I have developed multiple backend services on NodeJs, ExpressJs, NestJs and Laravel.
 
-🤔 I also develop frontend UI interfaces in reactjs, angular, jquery, HTML and CSS.
+💬 I also develop frontend UI interfaces in reactjs, angular, jquery, HTML and CSS.
+
+🤔 I have experience in microservices, docker, and Kubernetes.
 
 📫 Reach me: Email - prajwalbati@gmail.com
 
